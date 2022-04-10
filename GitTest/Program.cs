@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("Bonjour tout le monde !");
             Console.WriteLine("Ceci est la branche test-1.2");
+            Console.WriteLine("La branche test-1.2 a été améliorée.");
         }
     }
 }
