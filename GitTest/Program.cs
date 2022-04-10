@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Bonjour tout le monde !");
+            Console.WriteLine("Ceci est la branche test-1.2");
         }
     }
 }
