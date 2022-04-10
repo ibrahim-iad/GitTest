@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Bonjour tout le monde !");
+            Console.WriteLine("amélioration de la branche master.");
         }
     }
 }
